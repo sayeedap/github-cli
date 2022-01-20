@@ -19,5 +19,6 @@ jobs:
   automerge:
    runs-on: ubuntu-latest
    steps:
-     - name: automerge
-       uses: "sayeedap/github-cli@dev_sayeed"
+      - name: Merge pull requests (automerge-action)
+        uses: pascalgn/automerge-action@v0.14.3
+
