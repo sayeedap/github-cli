@@ -20,4 +20,4 @@ jobs:
    runs-on: ubuntu-latest
    steps:
      - name: automerge
-       uses: "sayeedap/automerge-action@dev_sayeed"
+       uses: "sayeedap/github-cli@dev_sayeed"
