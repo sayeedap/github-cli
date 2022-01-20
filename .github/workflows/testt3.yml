@@ -22,5 +22,5 @@ jobs:
       - name: Merge pull requests (automerge-action)
         uses: pascalgn/automerge-action@v0.14.3
         env:
-          GITHUB_TOKEN: "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"
+          GITHUB_TOKEN: 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
 
